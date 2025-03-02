@@ -13,7 +13,6 @@ Eine einfache webbasierte Anwendung zur Verwaltung einer Schulbibliothek. Die An
     - Überfällig – Die Ausleihfrist wurde überschritten.
 -**Suchfunktion**: Bücher können nach Titel oder Autor durchsucht werden.
 -**Automatische Überfälligkeitsprüfung**: System prüft automatisch, ob ausgeliehene Bücher überfällig sind.
--**Optionale Admin-Oberfläche** (optional): Verwaltung von Büchern und Schülern durch Administratoren.
 
 ##Technologien
 
