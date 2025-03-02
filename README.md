@@ -5,13 +5,18 @@ Eine einfache webbasierte Anwendung zur Verwaltung einer Schulbibliothek. Die An
 ##Funktionen
 
 -**Nutzerverwaltung**: Registrierung und Verwaltung von Schüler-Accounts mit Vor- und Nachnamen.
+
 -**Buchverwaltung**: Verwaltung eines Bestands von 400 Büchern.
+
 -**Ausleihe und Rückgabe**: Bücher können für 4 Wochen ausgeliehen werden.
+
 -**Statusanzeige**:
     - Verfügbar – Buch kann ausgeliehen werden.
     - Ausgeliehen – Buch befindet sich bei einem Schüler.
     - Überfällig – Die Ausleihfrist wurde überschritten.
+    
 -**Suchfunktion**: Bücher können nach Titel oder Autor durchsucht werden.
+
 -**Automatische Überfälligkeitsprüfung**: System prüft automatisch, ob ausgeliehene Bücher überfällig sind.
 
 ##Technologien
